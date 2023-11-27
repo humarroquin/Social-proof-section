@@ -36,8 +36,8 @@ Users should be able to:
 
 ### What I learned
 
-I continued practicing with CSS Grid and Flexbox.
+Continued practicing with CSS Grid and Flexbox.
 
 ### Continued development
 
-Continue learning about media queries and finding ways to reduce them.
+Continue learning about media queries and responsive design.
