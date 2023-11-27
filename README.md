@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [spsectionnov25.netlify.app/](https://spsectionnov25.netlify.app/)
+- Live Site URL: [https://spsnov25.netlify.app/](https://spsnov25.netlify.app/)
 
 ## My process
 
